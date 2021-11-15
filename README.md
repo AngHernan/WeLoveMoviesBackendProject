@@ -1,6 +1,5 @@
-# WeLoveMoviesBackendProject
 
-<h1 align="center">Welcome to my backend project</h1>
+<h1 align="center">Welcome to my WeLoveMoviesBackendProject</h1>
 
 This is one of my capstone projects. It is a backend server for a movie review project. This server completes all CRUD requests for the project. The API is set up using RESTful constraints. 
 
